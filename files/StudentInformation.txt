@@ -1,0 +1,24 @@
+Student 1:
+Id: 4
+Họ và tên: Siêu
+
+Student 2:
+Id: 5
+Họ và tên: Toàn
+
+Student 3:
+Id: 6
+Họ và tên: Thưởng
+
+Student 1:
+Id: 1
+Họ và tên: Nhàn
+
+Student 2:
+Id: 2
+Họ và tên: Trâm
+
+Student 3:
+Id: 3
+Họ và tên: Nga
+
